@@ -1,0 +1,25 @@
+.footer {
+  background-color: #413543ff;
+  padding: 50px;
+  text-align: center;
+  font-size: 16px;
+  color: #f9f5eb;
+  border-top: 10px solid #f0eb8dff
+}
+
+.footer li {
+  display: inline-block;
+  padding: 0px 20px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.footer ul {
+  padding-left: 0px
+}
+
+.footer-avatar {
+  width: 60px;
+  border-radius: 50%;
+  border: 2px solid #f0eb8dff
+}
